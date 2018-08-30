@@ -16,7 +16,6 @@ public class Homework0 {
 
 	 // There can be only one main method; you have two.
 	 // Basically if you delete this line, you should be good.
-	public static void main(String[] args) {
 
 	}
 
